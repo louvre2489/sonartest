@@ -113,43 +113,44 @@
 cssS4670"
 ignoreTypes/^(mat|md|fa)-/( ÞûÏœ.0 ÞûÏœ.:AXHJ_vEc5wj95mVtuO_kE
 common-javaDuplicatedBlocks(ˆæûÏœ.0ˆæûÏœ.:AXHJ_vcr5wj95mVtuPbx4
-scalaS1313( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAaE
+scalaS1313(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy6E
 scalaS3776"
-	threshold15( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1135( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1134( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1871( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa\
+	threshold15(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1135(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1134(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1871(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy6\
 scalaS2068"&
-credentialWordspassword,passwd,pwd( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS4144( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS4663( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa;
-scalaParsingError( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1656( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAaC
+credentialWordspassword,passwd,pwd(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS4144(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS4663(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy6;
+scalaParsingError(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1656(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy6C
 scalaS1479"
-maximum30( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa3
-scalaS125( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1172( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAaD
+maximum30(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy63
+scalaS125(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1172(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy6D
 scalaS1192"
-	threshold3( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa=
+	threshold3(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy63
+scalaS126(ÐÇ§Ðœ.0ÐÇ§Ðœ.:AXHKBHG45wj95mVtuPy6=
 scalaS107"
-Max7( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa3
-scalaS108( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1764( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1940( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1862( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1763( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1125( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1144( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1066( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1186( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAaR
+Max7(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy63
+scalaS108(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1764(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1940(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1862(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1763(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1125(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1144(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1066(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1186(Èâ‘Ðœ.0È˜êúž.:AXHKBHG45wj95mVtuPy6R
 scalaS101"
-format^[A-Z][a-zA-Z0-9]*$( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAaw
+format^[A-Z][a-zA-Z0-9]*$(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy6w
 scalaS100"B
-format8^([a-z][a-zA-Z0-9]*+(_[^a-zA-Z0-9]++)?+|[^a-zA-Z0-9]++)$( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS3923( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa4
-scalaS1481( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAaV
+format8^([a-z][a-zA-Z0-9]*+(_[^a-zA-Z0-9]++)?+|[^a-zA-Z0-9]++)$(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS3923(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy64
+scalaS1481(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy6V
 scalaS117"!
-format^[_a-zA-Z][a-zA-Z0-9]*$( ÞûÏœ.0 ÞûÏœ.:AXHJ_vGo5wj95mVtuPAa5
+format^[_a-zA-Z][a-zA-Z0-9]*$(Èâ‘Ðœ.0Èâ‘Ðœ.:AXHKBHG45wj95mVtuPy65
 kotlinS1313( ÞûÏœ.0 ÞûÏœ.:AXHJ_vIZ5wj95mVtuPBaF
 kotlinS3776"
 	threshold15( ÞûÏœ.0 ÞûÏœ.:AXHJ_vIZ5wj95mVtuPBa5
