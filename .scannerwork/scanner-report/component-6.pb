@@ -1,0 +1,1 @@
+ 2scalaXhrproject/Dependencies.scala
