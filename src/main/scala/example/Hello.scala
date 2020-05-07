@@ -3,7 +3,7 @@ package example
 object Hello extends Greeting with App {
   println(greeting)
 
-  def noImpl: Int = {
+  def noImpl: Unit = {
     val a = (14 / 1).toInt
   }
   def noImpl2: Unit = {}

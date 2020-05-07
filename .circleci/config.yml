@@ -31,8 +31,8 @@ jobs:
             # fallback to using the latest cache if no exact match is found
             - v1-dependencies-
 
-      - run: cat /dev/null | sbt -Dsonar.host.url="${SONAR_HOST}" test:compile sonarScan
       - run: cat /dev/null | sbt -Dsonar.host.url=http://localhost:9000 -Dsonar.projectName='PR Decoration' -Dsonar.projectKey="pr-decoration" -Dsonar.scala.pullrequest.provider= -Dsonar.scala.pullrequest.number="1" -Dsonar.scala.pullrequest.github.repository="louvre2489/sonartest" -Dsonar.scala.pullrequest.github.oauth="${TOKEN}" -Dsonar.verbose=true sonarScan
+
       - save_cache:
           paths:
             - ~/.m2
