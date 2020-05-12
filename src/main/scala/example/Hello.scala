@@ -10,6 +10,7 @@ object Hello extends Greeting with App {
   def noImpl3: Unit = {}
   def noImpl4(): Unit = {}
   def noImpl5(): Unit = {}
+  def noImpl6(): Unit = {}
 }
 
 trait Greeting {
